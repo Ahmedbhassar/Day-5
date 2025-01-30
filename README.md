@@ -28,14 +28,13 @@ This project involves developing a basic **Library Management System (LMS)** tha
   - **Total number of books** in the system.
   - **Average publication year** of all books.
   - **Most common genre** among the books.
-- Uses Python built-in functions like `sort()`, `len()`, `zip()`, and `range()`.
+
 
 #### 4. Advanced Features
 - **Search functionality**:
   - Find books by `Title` or `Author` using **list comprehensions**.
   - Implements **case-insensitive searches** for better user experience.
 - **Data Filtering**:
-  - Retrieves books published within a specified year range.
   - Extracts books that belong to a particular genre.
 
 ---
@@ -43,7 +42,7 @@ This project involves developing a basic **Library Management System (LMS)** tha
 ## Requirements
 To run this notebook, you need:
 - Python 3.x
-- Jupyter Notebook or Google Colab
+- Jupyter Notebook or Google Colab or any IDE
 - Required Python libraries (install with `pip install -r requirements.txt` if applicable)
 
 ## Getting Started
